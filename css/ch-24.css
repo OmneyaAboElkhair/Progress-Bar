@@ -32,7 +32,7 @@ body {
 /* Media Queries */
 @media (max-width:767px) {
     .container {
-        width: 400px;
+        width: 350px;
     }
 }
 
