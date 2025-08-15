@@ -142,15 +142,15 @@ body {
 /* Media Queries */
 @media (max-width:767px) {
     .container div:first-child span {
-        left: 70%;
+        left: 65%;
     }
 
     .container div:nth-child(2) span {
-        left: 45%;
+        left: 40%;
     }
 
     .container div:last-child span {
-        left: 60%;
+        left: 50%;
     }
 }
 
